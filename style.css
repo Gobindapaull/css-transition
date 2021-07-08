@@ -1,0 +1,12 @@
+.box{
+    color:black;
+    font-size:30px;
+    background:bisque;
+    text-align: center;
+}
+.box:hover{
+    color:rgb(43, 143, 30);
+    width:50%;
+    border:2px solid black;
+    margin:auto;
+}
